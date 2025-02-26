@@ -1,3 +1,19 @@
+# 🧠🚀 Kartik Pandey – AI Sorcerer | Full-Stack Architect | Google Grand Champion  
+
+> *“If it looks impossible, I’ll build it anyway.”*  
+
+## 👾 Super-Nerd Origin Story  
+
+- **Started coding at 6** – on **CRT monitors, Windows XP**, scripting before I could write essays.  
+- **At 8, hacked my school’s computer lab** – created a worm that **spread across every PC, shut them down**, and corrupted Windows. The entire lab went down.💀  
+- **At 10, found a bug in DOOM that gave infinite health** – YES, YES, YES, I am a DOOM fan! 🔥💀  
+- **During undergrad, discovered a critical vulnerability in my university’s database** – **reported the bug** before anyone noticed. That was my first official security disclosure.  
+- **Won my first hackathon**, then took it global, winning an **international AI hackathon**—with a **certificate signed by Geoffrey Hinton, the Father of AI** himself.
+- **Led a team during my first internship at Samsung (SRIB)** – Developed a **gesture recognition system** for the **Camera Solution Team**, working on cutting-edge AI for mobile devices. *Took charge within the first week of joining!*  
+- **Juggled 3 internships & 1 research role** at once while keeping a **9.3+ GPA** because *who needs sleep when you have AI?*  
+- **100% win rate in hackathons** – Literally. **Every. Single. One.**  
+- **Crowned Grand Champion** @ Google Hackathon – Beat industry veterans with 10+ years of experience. **Raised $75,000** for my AI-powered project **within 24 hours**. Got **invited to Google HQ** to present my work.  
+
 # 💫 About Me:
 🚀 I'm currently working on:<br><br>AI-powered real-time sports commentator (Grand Champion @ Google HQ) – with AI-generated voices better than ElevenLabs<br>NabuAI – AI research assistant that outperformed Google’s NotebookLM<br>LiveSecure – AI-driven real-time security risk detection<br>AI-powered voice synthesis & speech-to-text applications<br>Scalable full-stack trading platform integrating AI-driven analytics<br>
 
