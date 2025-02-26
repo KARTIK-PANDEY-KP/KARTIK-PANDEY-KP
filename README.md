@@ -5,9 +5,9 @@
 
 💡 I'm looking for help with:<br><br>Optimizing LLM inference & low-latency AI APIs<br>Enhancing real-time AI-powered voice synthesis & emotion modeling<br>Deploying AI-driven voice tech at scale<br>Fine-tuning multimodal AI models for better contextual understanding<br>
 
-🌱 I'm currently learning:<br><br>Voice AI & speech-to-text optimizations<br>Optimizing full-stack AI applications for production deployment<br>Retrieval-augmented generation (RAG) for LLM-based AI systems<br>High-performance distributed computing for AI & fintech applications<br>Efficient frontend rendering for large-scale AI-driven platforms<br>💬
+🌱 I'm currently learning:<br><br>Voice AI & speech-to-text optimizations<br>Optimizing full-stack AI applications for production deployment<br>Retrieval-augmented generation (RAG) for LLM-based AI systems<br>High-performance distributed computing for AI & fintech applications<br>Efficient frontend rendering for large-scale AI-driven platforms<br>
 
-Ask me about:<br><br>Winning Grand Champion @ Google HQ with real-time AI voice commentary & digital twins<br>Outperforming Google’s NotebookLM with real-time research AI (NabuAI)<br>Building AI-powered voice-driven assistants & synthesis tools<br>Scaling AI APIs & integrating them into full-stack applications<br>⚡ Fun fact:<br>Built an AI-generated movie platform with real-life audio, creating 15 min – 2 hr films dynamically! 🎬 Also built AI commentators that sound better than ElevenLabs! 🎤🔥<br><br>
+💬 Ask me about:<br><br>Winning Grand Champion @ Google HQ with real-time AI voice commentary & digital twins<br>Outperforming Google’s NotebookLM with real-time research AI (NabuAI)<br>Building AI-powered voice-driven assistants & synthesis tools<br>Scaling AI APIs & integrating them into full-stack applications<br>⚡ Fun fact:<br>Built an AI-generated movie platform with real-life audio, creating 15 min – 2 hr films dynamically! 🎬 Also built AI commentators that sound better than ElevenLabs! 🎤🔥<br><br>
 
 
 ## 🌐 Socials:
