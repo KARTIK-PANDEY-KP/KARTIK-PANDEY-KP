@@ -10,7 +10,7 @@
 - **During undergrad, discovered a critical vulnerability in my university’s database** – **reported the bug** before anyone noticed. That was my first official security disclosure.  
 - **Won my first hackathon**, an international one - with a **certificate signed by Geoffrey Hinton, the Father of AI** himself.
 - **Led a team during my first internship at Samsung (SRIB)** – Developed a **gesture recognition system** for the **Camera Solution Team**, working on cutting-edge AI for mobile devices. *Took charge within the first week of joining!*  
-- **Juggled 3 internships & 1 research role** at once while keeping a **9.3+ GPA** because *who needs sleep when you have AI?*  
+- **Juggled 3 internships & 1 research role** at once while keeping a **9.3+ GPA** because *who needs sleep when you like to code?*  
 - **Crowned Grand Champion** @ Google Hackathon – Beat industry veterans with 10+ years of experience. **Raised $75,000** for my AI-powered project **within 24 hours**. Got **invited to Google HQ** to present my work.  
 
 # 💫 About Me:
