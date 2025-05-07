@@ -11,7 +11,10 @@
 - **Won my first hackathon**, an international one - with a **certificate signed by Geoffrey Hinton, the Father of AI** himself.
 - **Led a team during my first internship at Samsung (SRIB)** – Developed a **gesture recognition system** for the **Camera Solution Team**, working on cutting-edge AI for mobile devices. *Took charge within the first week of joining!*  
 - **Juggled 3 internships & 1 research role** at once while keeping a **9.3+ GPA** because *who needs sleep when you like to code?*  
-- **Crowned Grand Champion** @ Google Hackathon – Beat industry veterans with 10+ years of experience. **Raised $75,000** for my AI-powered project **within 24 hours**. Got **invited to Google HQ** to present my work.  
+- **Crowned Grand Champion** @ Google Hackathon – Beat industry veterans with 10+ years of experience. **Raised $75,000** for my AI-powered project **within 24 hours**. Got **invited to Google HQ** to present my work.
+- **Won hackathons at nearly every major university in California** – including **USC, UCLA, UCSB, UC Irvine, UC Berkeley**, and more. 🏆🔥
+
+
 
 # 💫 About Me:
 🚀 I'm currently working on:<br><br>AI-powered real-time sports commentator (Grand Champion @ Google HQ) – with AI-generated voices better than ElevenLabs<br>NabuAI – AI research assistant that outperformed Google’s NotebookLM<br>LiveSecure – AI-driven real-time security risk detection<br>AI-powered voice synthesis & speech-to-text applications<br>Scalable full-stack trading platform integrating AI-driven analytics<br>
