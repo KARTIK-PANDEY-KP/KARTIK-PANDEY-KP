@@ -1,6 +1,4 @@
-# 🧠🚀 Kartik Pandey – AI Sorcerer | Full-Stack Architect | Google Grand Champion  
-
-## Founding team at CaseFlood.ai YC W25
+# 🧠🚀 Kartik Pandey – AI Sorcerer | Full-Stack Architect | Google Grand Champion || Founding team at CaseFlood.ai YC W25
 
 > *“If it looks impossible, I’ll build it anyway.”*  
 
