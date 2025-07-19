@@ -1,6 +1,7 @@
 # 🧠🚀 Kartik Pandey – AI Sorcerer | Full-Stack Architect | Google Grand Champion  
 
-Currently on the Founding team at CaseFlood.ai YC W25
+## Founding team at CaseFlood.ai YC W25
+
 > *“If it looks impossible, I’ll build it anyway.”*  
 
 ## 👾 Super-Nerd Origin Story  
