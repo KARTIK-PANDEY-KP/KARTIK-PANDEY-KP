@@ -1,4 +1,4 @@
-# 🧠🚀 Kartik Pandey – AI Sorcerer | Full-Stack Architect | Google Grand Champion || Chief Founding Engineer(fIRST hiRE) at CaseFlood.ai YC W25
+# 🧠🚀 Kartik Pandey – AI Sorcerer | Full-Stack Architect | Google Grand Champion || Chief Founding Engineer(First Hire) at CaseFlood.ai YC W25
 
 > *“If it looks impossible, I’ll build it anyway.”*  
 
