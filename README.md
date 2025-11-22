@@ -13,6 +13,7 @@
 - **Juggled 3 internships & 1 research role** at once while keeping a **9.3+ GPA** because *who needs sleep when you like to code?*  
 - **Crowned Grand Champion** @ Google Hackathon – Beat industry veterans with 10+ years of experience. **Raised $75,000** for my AI-powered project **within 24 hours**. Got **invited to Google HQ** to present my work.
 - **Won hackathons at nearly every major university in California** – including **USC, UCLA, UCSB, UC Irvine, UC Berkeley**, and more. 🏆🔥
+- Led to an 80 million $ acquisitio offer
 
 
 
